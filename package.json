@@ -1,0 +1,26 @@
+{
+  "name": "kodilla_zadanie8.3",
+  "version": "1.0.0",
+  "description": "example kodilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-tet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponuryshepard/zadanie8.3.git"
+  },
+  "keywords": [
+    "zadanie8.3"
+  ],
+  "author": "patryk bartodziej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponuryshepard/zadanie8.3/issues"
+  },
+  "homepage": "https://github.com/ponuryshepard/zadanie8.3#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
